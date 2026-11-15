@@ -260,3 +260,4 @@ window.APP_DATA = {
   {"en":"forty","ar":"أربعون","pron":"فورْتي","pos":"number","topics":["Numbers 21-101"],"units":["4"],"en_clean":"forty","article":""},
   {"en":"four","ar":"أربعة","pron":"فور","pos":"number","topics":["Numbers 0-20"],"units":["2"],"en_clean":"four","article":""},
   {"en":"fourth","ar":"الرابع","pron":"فورث","pos":"number","topics
+.
